@@ -1,4 +1,6 @@
+
 # RxRealmKt
+[![](https://jitpack.io/v/bornest/RxRealmKt.svg)](https://jitpack.io/#bornest/RxRealmKt)
 
 Android library built on top of Realm.
 
@@ -8,6 +10,11 @@ Provides seamless RxJava 2 integration and simple get/put/update/delete methods 
 count.**
 
 ## Setup
+
+To use the latest release add following code to your Gradle dependencies:
+
+`compile 'com.github.bornest:RxRealmKt:v0.1.0'`
+
 
 To use the latest SNAPSHOT add following code to your Gradle dependencies:
 
